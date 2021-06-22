@@ -1,0 +1,38 @@
+p{
+    color:red;
+    }
+li{
+    color: black;
+}
+.origami{
+    background-color: red;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content:flex-end ;
+    margin: 20px;
+}
+.chameleon{
+background-color: cyan;
+display: flex;
+justify-content: baseline;
+width: 500px;
+}
+.pigeon{
+    background-color: lime;
+    display: flex;
+    justify-content: baseline;
+    width: 500px; 
+}
+.camel{
+background-color: green;
+display: flex;
+justify-content: baseline;
+width: 500px;
+}
+.cicada{
+background-color: yellow;
+display: flex;
+justify-content: baseline;
+width: 500px;
+}
